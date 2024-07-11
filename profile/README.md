@@ -45,7 +45,7 @@ We are proud to collaborate with industry-leading partners to deliver exceptiona
 - **Full World**
 - **HK Express**
 - **Devo Group**
-- **Hadhad**
+- **Hedhud**
 - **Sand Codes**
 - **Shift Media**
 
