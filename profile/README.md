@@ -1,6 +1,6 @@
 # Octopus Software Team ![Octopus](https://img.icons8.com/fluency/48/000000/octopus.png)
 
-![Banner](https://scontent.fcai20-2.fna.fbcdn.net/v/t39.30808-6/444468528_122105180024374636_8817917218990748468_n.png?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xhxPyrkqRS8Q7kNvgF9jsr2&_nc_ht=scontent.fcai20-2.fna&oh=00_AYB2MuTjtPywJRza0ayzCwA6Gii0J8RSsm9rzt0VLpzuQg&oe=668EF473)
+![Banner]('/banner.png')
 ## About Us
 
 At Octopus Software Team, we believe in the power of technology to transform businesses and drive success. With our extensive experience in web and mobile application development, we have a proven track record of delivering projects that are both efficient and scalable.
