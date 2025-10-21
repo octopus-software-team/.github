@@ -1,6 +1,6 @@
 # Octopus Software Team ![Octopus](https://img.icons8.com/fluency/48/000000/octopus.png)
 
-![Banner](banner.png)
+![Banner](bannar.jpg)
 ## About Us
 
 At Octopus Software Team, we believe in the power of technology to transform businesses and drive success. With our extensive experience in web and mobile application development, we have a proven track record of delivering projects that are both efficient and scalable.
